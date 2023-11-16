@@ -31,13 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![244918802-b63378dc-224c-47ab-9261-948618450067](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/4b6ab7e5-8648-4f1f-aa6d-4a3d849ecabb)
+![image](https://github.com/kavinesh8476/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118466561/522b7639-42a6-478c-ad94-f52b52da7dd8)
+
 
 ### Output:
-![244918811-1c606e12-0e4d-4703-b86d-463bd2ca9dd4](https://github.com/Thirukaalathessvarar-S/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166390/ecbeed11-2e6f-4a0c-a6a6-bc1fc818d6b4)
+
+![image](https://github.com/kavinesh8476/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118466561/40c58261-6ca0-4e09-abb5-a68a930e8408)
 
 ### Name: Mohamed Fareed F
-### Register Number: 212222230082
+### Register Number:212222230082
 
 ## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+   Thus the given product is reverse engineered and prototyped using 3D Printer.
